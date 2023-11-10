@@ -1,0 +1,2 @@
+image_viewer_qt:ros_qt_pub:ros_qt_sub:usb_cam-develop
+-DCATKIN_DEVEL_PREFIX=/home/jeawoog/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jeawoog/catkin_ws/install -G Unix Makefiles

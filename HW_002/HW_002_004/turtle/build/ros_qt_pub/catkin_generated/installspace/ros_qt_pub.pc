@@ -1,0 +1,8 @@
+prefix=/home/jeawoog/catkin_ws/install
+
+Name: ros_qt_pub
+Description: Description of ros_qt_pub
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
